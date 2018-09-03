@@ -25,7 +25,7 @@ SECRET_KEY = 't42fck023wd6#*!fk%emq%hwsemj(frjye7zv2q)atpvf(l2ov'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'radiowaaonline.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'blakcoder.pythonanywhere.com']
 
 
 # Application definition
